@@ -1,4 +1,4 @@
-# macOS Keyboard Belgian
+# Keyboard Belgian macOS 
  
 Layout generated with ukelele app.
 
