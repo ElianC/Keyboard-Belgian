@@ -6,3 +6,6 @@ I created this config because i've a basic keyboard and the keylayouts already p
 This layout is not accurate and need to be improved. 
 
 To install it, you have just to unzip and launch the bundle or put the .keylayout file in folder `~Library/Keyboard Layouts` or `~/Users/{user}/Library/Keyboard Layouts`
+
+### Todo
+ - [ ] put the accent automatically on when you type an accent followed by a vowel
