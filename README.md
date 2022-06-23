@@ -9,4 +9,4 @@ To install it, you have just to unzip and launch the bundle or put the .keylayou
 
 ### Todo
  - [x] put the accent automatically on when you type an accent followed by a vowel
- - [] fix maj tab shift shortcut to navigate into opnened applications (maj tab work well)
+ - [ ] fix maj tab shift shortcut to navigate into opnened applications (maj tab work well)
